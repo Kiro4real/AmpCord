@@ -2,6 +2,7 @@
 <br>
 <details>
   <summary>By</summary>
+  <p>Made With ❤️ By Kiro & Yash</p>
 </details>
 <h3>features</h3>
 <ul>
