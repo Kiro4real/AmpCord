@@ -8,4 +8,6 @@
 <ul>
   <li>Inbuilt Switch To Stereo/Mono</li>
   <li>Uncapped Gain Db++</li>
+  <li>Wideness++ !</li>
+  <li>Rnnoise Plugin</li>
 </ul>
