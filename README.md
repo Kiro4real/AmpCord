@@ -9,5 +9,4 @@
   <li>Inbuilt Stereo</li>
   <li>Gain Db++</li>
   <li>Wideness++ !</li>
-  <li>Rnnoise Plugin</li>
 </ul>
